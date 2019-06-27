@@ -1,0 +1,131 @@
+body{
+					font-family: Lato;
+									}
+	p{
+					font-family: Lato;
+									}
+	h1,.h1{
+					font-family: Yeseva One;
+							font-size: 50px;
+							}
+	h2,.h2{
+					font-family: Yeseva One;
+							font-size: 31px;
+							}
+	h3,.h3{
+					font-family: Yeseva One;
+							font-size: 27px;
+							}
+	h4,.h4{
+					font-family: Yeseva One;
+							font-size: 20px;
+							}
+	h5,.h5{
+					font-family: Yeseva One;
+							font-size: 18px;
+							}
+	h6,.h6{
+					font-family: Yeseva One;
+									}
+	a{
+									}
+
+
+
+
+	
+	.navbar-custom .navbar-nav li a {
+    font-weight: 600;
+}
+a.navbar-brand.logo {
+    margin-top: -40px;
+}
+.widget-cat-paragraph .col-md-6:nth-child(2) {
+    padding: 50px;
+    background: #00000094;
+}
+.widget-cat-quotes .col-md-6 {
+    background: #000;
+    padding: 50px 23px;
+}
+.widget-cat-image-caption .col-md-7 img {
+    padding-right: 13px;
+}
+.sbmt-btn {
+    margin: 21px auto;
+    display: block;
+    padding: 10px 58px;
+    background: #c9a131;
+}
+.form-group label {
+    color: #c9a131;
+}
+.table>tbody>tr>td {
+    padding: 0;
+    line-height: unset;
+    border-top: unset;
+}
+.element img {
+    margin: 0 auto;
+    display: block;
+}
+.social.horizontal li .fa {
+    background: transparent;
+}
+.social_icons_widget.social_icons_widget_2 {
+    text-align: center;
+}
+.row.customrow {
+    margin-top: 50px;
+}
+.back-to-top {
+    background: #cc9900;
+}
+
+	
+.navbar-custom{
+		background-color:rgba(255,255,255,0);
+}
+	.navbar-absolute-top{
+		position: absolute;
+		right: 0;
+		left: 0;
+		z-index: 1030;
+		background-color: transparent;
+	}
+
+.navbar-toggle{
+	background-color:rgba(0,0,0,1);
+}
+.header3 .slide-toggle span,.header4 .slide-toggle span{
+	
+}
+.navbar-custom .navbar-nav li a{
+	background-color:rgba(255,255,255,0);
+	color:#ffffff;
+}
+.navbar-custom .navbar-nav li:hover > a{
+	background-color:rgba(255,255,255,0);
+	color:rgba(0,0,0,0.5);
+}
+.navbar-custom .nav>li>a:focus, .navbar-custom .nav>li>a:hover, .navbar-custom .navbar-nav li.active a{
+	background-color:rgba(255,255,255,0);
+	color:rgba(0,0,0,0.5);
+}
+.sticky-wrapper.is-sticky .navbar-custom{
+	background-color:rgba(0,0,0,1);
+}
+.sticky-wrapper.is-sticky .navbar-custom .navbar-nav li a{
+	color:rgba(0,0,0,1);
+}
+.sticky-wrapper.is-sticky .navbar-custom .navbar-nav li:hover > a{
+	color:rgba(0,0,0,1);
+}
+.header3 .sliding .sliding-menu,.header4 .sliding .sliding-menu{
+	background-color:#eaeaea
+}
+@media (max-width: 768px){
+	.navbar-collapse{
+		background-color:rgba(0,0,0,0);
+	}
+}
