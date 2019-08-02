@@ -81,6 +81,10 @@ a.navbar-brand.logo {
 .back-to-top {
     background: #cc9900;
 }
+.widget.form_widget.form_widget_1 button[type=submit] {
+    color: #fff !important;
+    font-size: 20px !important;
+}
 
 	
 .navbar-custom{
@@ -109,6 +113,18 @@ a.navbar-brand.logo {
 	color:rgba(0,0,0,0.5);
 }
 .navbar-custom .nav>li>a:focus, .navbar-custom .nav>li>a:hover, .navbar-custom .navbar-nav li.active a{
+	background-color:rgba(255,255,255,0);
+	color:rgba(0,0,0,0.5);
+}
+.navbar-custom .navbar-nav li ul.sub-menu li a{
+	background-color:rgba(255,255,255,0);
+	color:rgba(0,0,0,1);
+}
+.navbar-custom .navbar-nav li ul.sub-menu li:hover > a{
+	background-color:rgba(255,255,255,0);
+	color:rgba(0,0,0,0.5);
+}
+.navbar-custom .nav li ul.sub-menu li a:focus, .navbar-custom .nav li ul.sub-menu li.active a{
 	background-color:rgba(255,255,255,0);
 	color:rgba(0,0,0,0.5);
 }
